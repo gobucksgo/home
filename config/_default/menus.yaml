@@ -5,7 +5,7 @@
 
 main:
   - name: English
-    url: https://www.kjang.com/eng/
+    url: eng/
     weight: 10
   - name: Korean
     url: https://www.kjang.com/kor/
