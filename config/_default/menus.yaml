@@ -5,7 +5,7 @@
 
 main:
   - name: English
-    url: https://www.kjang.com/
+    url: https://econr-en.netlfy.com/
     weight: 10
   - name: Korean
     url: https://www.kjang.com/kor/
