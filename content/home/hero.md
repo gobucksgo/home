@@ -21,5 +21,5 @@ advanced:
 
 **This site is now under construction. **
 
-** 만드는 중입니다. **
+** 홈페이지를 만드는 중입니다. - 1**
 
