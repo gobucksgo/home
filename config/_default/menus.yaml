@@ -1,0 +1,12 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: English
+    url: https://www.kjang.com/
+    weight: 10
+  - name: Korean
+    url: https://www.kjang.com/kor/
+    weight: 20
