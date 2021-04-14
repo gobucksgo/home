@@ -6,7 +6,7 @@ title: Welcome to the EconStat World.
 hero_media: 2018-10-23-110432-k.jpg
 cta:
   label: '**English**'
-  url: https://econr-en.netlify.com/
+  url: https://www.kjang.com/eng/
 cta_alt:
   label: '**Korean**'
   url: https://www.kjang.com/kor/
