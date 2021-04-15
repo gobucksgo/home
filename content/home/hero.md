@@ -19,5 +19,5 @@ advanced:
   css_class: fullscreen
 ---
 
-kjang-1
+kjang-3
 
