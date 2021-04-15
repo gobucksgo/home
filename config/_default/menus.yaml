@@ -8,5 +8,5 @@ main:
     url: eng/
     weight: 10
   - name: Korean
-    url: https://www.kjang.com/kor/
+    url: kor/
     weight: 20

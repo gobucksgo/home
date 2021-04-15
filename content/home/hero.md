@@ -2,14 +2,14 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to the EconStat World.
+title: Economics with R from A to Z
 hero_media: 2018-10-23-110432-k.jpg
 cta:
   label: '**English**'
-  url: kjang.ivyro.net
+  url: eng/
 cta_alt:
   label: '**Korean**'
-  url: https://www.kjang.com/kor/
+  url: kor/
 design:
   background:
     gradient_end: '#1976d2'
@@ -19,7 +19,5 @@ advanced:
   css_class: fullscreen
 ---
 
-**This site is now under construction.**
-
-**홈페이지를 만드는 중입니다. - 3**
+kjang-1
 
