@@ -19,7 +19,7 @@ advanced:
   css_class: fullscreen
 ---
 
-**This site is now under construction. **
+**This site is now under construction.**
 
-** 홈페이지를 만드는 중입니다. - 1**
+**홈페이지를 만드는 중입니다. - 3**
 
