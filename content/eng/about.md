@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: author
 
 # Activate this widget? true/false
 active: true
@@ -17,5 +17,5 @@ title: Biography
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: kjang
+author: admin
 ---
